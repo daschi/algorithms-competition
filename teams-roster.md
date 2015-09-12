@@ -14,3 +14,8 @@ Don't forget to add your Project Euler friendship key.
   - [Best Algorithm Gist Link](https://gist.github.com/adowns01/1f3114bbc2c719d9b7f4)
   - [Shortest Algorithm Gist Link](https://gist.github.com/adowns01/1f3114bbc2c719d9b7f4)
   
+- Team Unnamed
+  - Members: Daniela Schiano di Cola, Josh Ullman, Andrew Dowd
+  - Friendship Key: 842120_HKZLx1QitGnjZ4y8KvfPSpKSZagubBTK
+  - Best alogrithm:
+  - Shortest:
